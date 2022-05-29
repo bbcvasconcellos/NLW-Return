@@ -23,12 +23,12 @@ This project was developed using [Expo](https://expo.io/); hence, it is recommen
 - **1. clone this repository:** 
    - if you are using https: `git clone https://github.com/bbcvasconcellos/NLW-Return.git` 
 - **2. Starting the frontend:**
-   - cd frontend file
+   - cd frontend 
    - download the dependencies: `npm i` or `yarn`
    - to start run: `npm run dev` or `yarn dev`
    - set the .env file url with VITE_API_URL={your url} 
 - **3. Starting the backend:**
-  - cd backend file
+  - cd backend 
   - download the dependencies: `npm i` or `yarn`
   - to start run: `npm run dev` or `yarn dev`
   - to run the unit tests: `npm run test` or `yarn test` 
